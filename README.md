@@ -3,6 +3,9 @@
 
 This is a property listing application built with Vite and React. It allows users to browse properties available for rent in various cities. Users can filter properties by city and load more properties as needed.
 
+## Demo
+https://dulcet-tapioca-827b3e.netlify.app
+
 ## Technologies Used
 
 - Vite: A build tool that aims to provide a faster and leaner development experience for modern web projects.
